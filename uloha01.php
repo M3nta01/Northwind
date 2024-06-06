@@ -1,6 +1,6 @@
 <?php
 require_once "connect.php";
-require_once "menu.php";
+
 
 // požiadavka 01
 $sql_zakaznici = "SELECT * FROM Customers";
